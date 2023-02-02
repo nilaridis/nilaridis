@@ -1,6 +1,8 @@
 function startWeb(){
     var about = document.getElementById("about");
-    about.style.display="none"
+    var myProjects = document.getElementById("myProjects");
+    about.style.display= "none";
+    myProjects.style.display="none";
 }
 
 function toggleAbout(){
@@ -21,11 +23,16 @@ function toggleAbout(){
         about.style.display = "none";
     }
 
-    // if(x.style.display === "none"){
-    //     x.style.display= "block";
 
-    // }
-    // else{
-    //     x.style.displat= "none";
-    // }
+    function toggleProj () {
+        var welcome= document.getElementById("welcome");
+        var myProjects = document.getElementById("my-projects");
+    
+        if(welcome.style.display === "none"){
+            welcome.style.display = "block";
+        }else{
+            welcome.style.display= "none";
+        }
+    }
+  
 }
