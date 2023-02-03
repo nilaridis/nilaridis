@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import 'animate.css';
+
 /* Global Reset */
 *{
     box-sizing: border-box;
@@ -187,12 +188,30 @@ h1{
     }
 }
 
-.about {
-    display: flex;
-    flex-direction: column;
-    height: 345px;
-    width: 637px;
-    padding-top: 350px ; 
+@media all and (max-width:750px)
+{
+    .content{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-container{
+        padding-top: 200px;
+    }
+    .secondary-container{
+        padding-top: 60px;
+    }
+    .logo{
+        position: absolute;
+        left: 12%;
+    }
 }
 
-
+@media all and (max-width:600px)
+{
+    .desc{
+        width: 400px;
+    }
+    .main-container{
+        padding-left: 30px;
+    }
+}
