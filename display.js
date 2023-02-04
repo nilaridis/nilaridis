@@ -10,6 +10,7 @@ function startWeb(){
     myProjects.style.display="none";
     services.style.display= "none";
     contactMe.style.display= "none";
+    
 }
 
 
