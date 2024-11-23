@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.8.9">
   <diagram name="Page-1" id="JNpr5KujHMP0Zg1LJwos">
-    <mxGraphModel>
+    <mxGraphModel dx="1147" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="632CV-mZmbIv2RDBnfEo-1" value="ΠΕΛΑΤΗΣ" style="whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-2" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="270" as="sourcePoint" />
+            <mxPoint x="197.5" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-14" value="ONOMA" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-15" value="ΕΠΩΝΥΜΟ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-16" value="ΠΑΤΡΩΝΥΜΟ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-17" value="ΤΗΛΕΦΩΝΑ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="65" y="260" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-18" value="ΔΙΕΥΘΥΝΣΗ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-19" value="EMAIL" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="360" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-14" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="237.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-15" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="197.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-16" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="197.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-17" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="197.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-18" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="197.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="632CV-mZmbIv2RDBnfEo-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="632CV-mZmbIv2RDBnfEo-19" target="632CV-mZmbIv2RDBnfEo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="200" as="sourcePoint" />
+            <mxPoint x="197.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
